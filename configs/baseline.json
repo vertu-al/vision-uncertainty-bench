@@ -1,0 +1,13 @@
+{
+  "seed": 2026,
+  "split_seed": 2026,
+  "data_directory": "data",
+  "output_directory": "artifacts/baseline_seed_2026",
+  "validation_per_class": 500,
+  "batch_size": 128,
+  "epochs": 20,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "num_workers": 0,
+  "device": "auto"
+}
